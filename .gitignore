@@ -1,0 +1,11 @@
+build*/
+build-*/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+.ninja_*
+.codex/
+.agents/
